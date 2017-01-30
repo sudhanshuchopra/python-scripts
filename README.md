@@ -6,4 +6,4 @@ The other one can be used to extract all the images(both css and html) from any 
 <br/>
 Both of these scripts are supposed to run on linux terminal only.
 <br/>
-It is basically a plug and play kind of desktop app
+<b>It is basically a plug and play kind of desktop app</b>
