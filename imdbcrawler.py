@@ -72,4 +72,4 @@ k=requests.get("http://www.imdb.com")
 extract()
 #print(dicti)
 #print(len(m))
-
+#print(Pull_req)
